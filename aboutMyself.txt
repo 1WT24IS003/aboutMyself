@@ -1,9 +1,0 @@
-Title:Miss
-Full Name:K.Pavithra
-USN:1WT24IS003
-Semester:Third
-Section:A
-Branch:Information Science Engineering
-Year of Admission:2024
-College Name:GITW
-
