@@ -6,4 +6,6 @@ Section:A
 Branch:Information Science Engineering
 Year of Admission:2024
 College Name:GITW 
-
+SSLC:KPS agara
+PUC:Krupanidhi pre-university
+UG Degree:2nd year,B.E Information Science Engineering
