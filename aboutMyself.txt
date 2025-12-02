@@ -5,5 +5,8 @@ Semester:Third
 Section:A
 Branch:Information science engineering
 Year of Admission:2024
-college Name:GITW
+college Name:Ghousia institute of technology for women 
+SSLC:KPS agara
+PUC:Krupanidhi pre-university
+UG Degree:2nd year B.E Information Science Engineering
 
