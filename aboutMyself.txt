@@ -5,15 +5,12 @@ Semester:Third
 Section:A
 Branch:Information science engineering
 Year of Admission:2024
-<<<<<<< HEAD
 college Name:Ghousia institute of technology for women 
 SSLC:KPS agara
 PUC:Krupanidhi pre-university
 UG Degree:2nd year B.E Information Science Engineering
-
-=======
 College Name:GITW 
 SSLC:KPS agara
 PUC:Krupanidhi pre-university
 UG Degree:2nd year,B.E Information Science Engineering
->>>>>>> 74c6b71 (Updated the contents of aboutMyself.txt file successfully)
+ 74c6b71 (Updated the contents of aboutMyself.txt file successfully)
